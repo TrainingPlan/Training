@@ -16,3 +16,8 @@
 5. 通过数据统计分析提醒用户
 6. 通过每日计分，鼓励用户健康使用手机
 
+##### 参考
+类似APP：24pi
+统计APP使用时间源代码：https://github.com/Uyouii/Statistics
+![](https://github.com/TaiyouDong/Statistics/raw/master/picture/chart1.png)
+
