@@ -1,5 +1,5 @@
-# 2018寒假第一周
-### 综合看了一下大家的代码，整体情况良好，还需进一步努力
+# 2018寒假第一周总结
+### 综合阅读了一下大家的代码，整体情况良好，还需进一步努力
 ### iOS组：
 ![](https://github.com/TrainingPlan/Training/blob/master/pic21080205/iOS%20(1).jpg)
 ![](https://github.com/TrainingPlan/Training/blob/master/pic21080205/iOS%20(2).jpg)
