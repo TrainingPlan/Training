@@ -12,3 +12,5 @@
 3. 根据培训计划，按要求完成每周进度，参加周例会讨论。
 4. 培训结束后，检验编写代码能力，准备组队参赛。
 5. 组队原则：三人一组（大致分工：项目管理、UI设计、编码实现）
+
+![](https://github.com/TrainingPlan/Training/blob/master/%E5%9F%B9%E8%AE%AD%E8%AE%A1%E5%88%92.jpg)
