@@ -24,4 +24,6 @@
 - 量变引起质变，耐心积累，稳扎稳打，打通技术关卡，后面再写代码就比较轻松愉快了。
 - 坚持不懈，开学时回头看看，一定会发现一个不一样的自己。
 
+##### You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted.
+
 ![](https://github.com/TrainingPlan/Training/raw/master/%E5%9F%B9%E8%AE%AD%E8%AE%A1%E5%88%92.jpg)
